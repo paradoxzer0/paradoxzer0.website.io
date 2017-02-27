@@ -42,9 +42,8 @@
 	margin-right: 10px;
 	padding: 20px;
 	width: 260px;
-        height: 260px;
+	height: 260px;
 	border-radius: 5px;
-	border: 1px solid black;
 	}
 	
 .homebox2 {
@@ -58,7 +57,6 @@
 	width: 260px;
         height: 146px;
 	border-radius: 5px;
-	border: 1px solid black;
 	}
 	 
 .home4 {
@@ -177,7 +175,6 @@
 	margin-bottom: 10px;
 	border-radius: 5px;
 	padding: 20px;
-	font-size: 105%;
 	float: right;
 	width: 260px;
 	clear: right;
