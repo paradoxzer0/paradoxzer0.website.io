@@ -211,5 +211,9 @@
 
 .ml {
     margin: 10px;
-    float: center;
+    text-align: center;
     }
+
+.homeheader1 {
+	text-align: center;
+}
